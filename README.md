@@ -9,7 +9,7 @@ A thematic app for generating passwords.
 </div>
 
 ## 🛠️ Features
-- Generate a ramdom passphrase with 12 words
+- Generate a random passphrase with 12 words
 - Copy passphrase to clipboard
 
 ## 🚀 Technologies
