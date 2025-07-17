@@ -2,7 +2,11 @@
 A thematic app for generating passwords.
 
 ## 📱 Preview
-![Preview](https://github.com/Alisson-DeRodrigues/stark-pass-app/blob/main/assets/preview.png)
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/Alisson-DeRodrigues/stark-pass-app/blob/main/assets/preview.png" width="200" alt="preview" />
+  </a>
+</div>
 
 ## 🛠️ Features
 - Generate a ramdom passphrase with 12 words
